@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IT engineer and data analyst from Russia</h3>
 
-🔭 I’m currently working on **SQL, OpenShift, Oracle, Postgre, Bitbucket, Grafana**
+🔭 I’m currently working on **SQL, OpenShift, Oracle, Postgre, Bitbucket, Grafana, Project manager**
 
 🌱 I’m currently learning **Python, BPMN, Aris, Tablue**
 
